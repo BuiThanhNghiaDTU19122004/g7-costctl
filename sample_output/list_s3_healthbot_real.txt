@@ -1,0 +1,3 @@
+S3 Application=HealthBot — 1 found:
+------------------------------------------------------------------------------
+  hello-bucket-311912733822 bucket         active       Application=HealthBot, Environment=dev, Owner=Nghia, purpose=practice
